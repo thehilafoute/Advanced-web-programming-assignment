@@ -1,6 +1,6 @@
 # 0x12. JavaScript - Warm up
 
-So this is the first JavaScript project for the Advanced Web Programming course . Coming from Python, some things feel familiarr and some things are just weird. This project is basicallyscripting with JS — no DOM stuff yet, just getting comfortable with thelanguage.
+This is the first JavaScript project for the Advanced Web Programming course .  So many things feel familiarr and others are just different. This project is basically scripting with JavaScript and i am learning how to get comfortable with thelanguage.
 
 ## What this is about
 
@@ -106,6 +106,6 @@ myConverter(89); // returns "59" — base 16 is still remembered
  
 
 ## Author
-Submitted by Ngufor Princeley Enock from HITBAMAS — 
+Submitted by Mboulla foute ange thehila from HITBAMAS — 
 Advanced Web Programming  
-Lecturer: Engr. Abang Tanyi Alain
+Lecturer: Engr. Abang 
