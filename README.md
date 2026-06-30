@@ -56,7 +56,7 @@ Also the first line of every file has to be:
 
 # 0x13. JavaScript - Objects, Scopes and Closures
 
-For the Second JavaScript project. This one getsinto OOP — classes, inheritance, prototypes, and closuress. Honestly closures were the most confussing part at first but theystart to make sense onc you see them inaction (check `9-logme.js` and `10-converter.js`).
+For the Second JavaScript project. This one getsinto OOP  classes, inheritance, prototypes, and closuress. Honestly closures were the most confussing part at first but theystart to make sense onc you see them inaction (check `9-logme.js` and `10-converter.js`).
 
 ## What this covers
 
@@ -108,4 +108,4 @@ myConverter(89); // returns "59" — base 16 is still remembered
 ## Author
 Submitted by Mboulla foute ange thehila from HITBAMAS — 
 Advanced Web Programming  
-Lecturer: Engr. Abang 
+Lecturer: MR. Abang 
