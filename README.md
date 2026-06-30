@@ -1,12 +1,12 @@
-# 0x12. JavaScript - Warm up
+# JavaScript  Warm up
 
 This is the first JavaScript project for the Advanced Web Programming course .  So many things feel familiarr and others are just different. This project is basically scripting with JavaScript and i am learning how to get comfortable with thelanguage.
 
-## What this is about
+ # What this is about
 
 Gettting the basics down: variables, loopss, functions, how arguments worrk in Node, that kind of thing. Also figuring out when to use `const` vs `let` (and why `var` is apparentlysomething we're not supposed to touch).
 
-## Setup
+# Setup
 
 Youneed Node 14 and semistandard. Here's how to get them:
 
@@ -23,7 +23,7 @@ Also the first line of every file has to be:
 #!/usr/bin/node
 ```
 
-## Files
+# Files
 
 | File | What it does |
 |------|-------------|
@@ -46,7 +46,7 @@ Also the first line of every file has to be:
 | `102-add_me_maybe.js` | Increments a number and passes it to a callback |
 | `103-object_fct.js` | Adds an `incr` method to an existing object that bumps up its value |
 
-## Notes
+# Notes
 
 - `var` is not allowed anywhere in this project
 - `console.log` is the only way to print output
@@ -58,11 +58,11 @@ Also the first line of every file has to be:
 
 For the Second JavaScript project. This one getsinto OOP  classes, inheritance, prototypes, and closuress. Honestly closures were the most confussing part at first but theystart to make sense onc you see them inaction (check `9-logme.js` and `10-converter.js`).
 
-## What this covers
+# What this covers
 
 Classes with ES6 syntax, `extends` and `super` for inheritance, how `this` behaves inside methods, what closures actually are, and some array methods like `map` and `filter`. Also a bit of file I/O at the end with the `fs` module.
 
-## Setup
+# Setup
 
 Same as the previous project — Node 14 and semistandard:
 
@@ -74,7 +74,7 @@ sudo npm install semistandard --global
 
 Files neeed to be executable and startwith `#!/usr/bin/node`. No `var` anywhere.
 
-## Files
+# Files
 
 | File | What it does |
 |------|-------------|
@@ -93,7 +93,7 @@ Files neeed to be executable and startwith `#!/usr/bin/node`. No `var` anywhere.
 | `101-sorted.js` | Flips a user-id-to-occurrence dict into an occurrence-to-user-ids dict |
 | `102-concat.js` | Reads two files and writes their combined contentinto a third file |
 
-## The closure thing
+# The closure thing
 
 It clicked for me with task 10. `converter(base)` returns a new function that still has access to `base` even after `converter` has finished running. That's a closure — the inner function "closes over" the variable from its outer scope.
 
@@ -105,7 +105,7 @@ myConverter(89); // returns "59" — base 16 is still remembered
 
  
 
-## Author
-Submitted by Mboulla foute ange thehila from HITBAMAS 
+# Author
+Mboulla foute ange thehila from HITBAMAS 
 Advanced Web Programming  Assignment
 Lecturer: MR. Abang 
