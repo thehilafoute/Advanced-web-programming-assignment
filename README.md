@@ -106,6 +106,6 @@ myConverter(89); // returns "59" — base 16 is still remembered
  
 
 ## Author
-Submitted by Mboulla foute ange thehila from HITBAMAS — 
-Advanced Web Programming  
+Submitted by Mboulla foute ange thehila from HITBAMAS 
+Advanced Web Programming  Assignment
 Lecturer: MR. Abang 
